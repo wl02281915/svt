@@ -1,2 +1,0 @@
-Mtr_Version,Start_Time,Status,Host,Hop,Ip,Loss%,Snt, ,Last,Avg,Best,Wrst,StDev,
-MTR.0.93,1642442347,OK,192.168.1.20,1,192.168.1.20,0.00,30,0,1.26,1.57,0.80,2.53,0.32
